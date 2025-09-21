@@ -1,4 +1,4 @@
-# Hi, I'm nswarnob 👋
+# Hi, I'm Arnob 👋
 
 I'm a passionate **Developer** with hands-on experience in building modern web applications and mobile solutions.
 
