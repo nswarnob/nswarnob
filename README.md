@@ -18,7 +18,6 @@ I'm a passionate **Developer** with hands-on experience in building modern web a
 
 ## 🎥 Other Interests
 - Video Editing
-- Music Listening
 
 ---
 
