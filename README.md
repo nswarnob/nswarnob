@@ -10,7 +10,7 @@ I'm a passionate **Developer** with hands-on experience in building modern web a
 - Programming Hero Graduate
 
 ## 🌱 Recent Projects
-- [Green-Earth](https://github.com/nswarnob/Green-Earth)
+- [News Paper](https://github.com/nswarnob/news-paper-project.git)
 - [English Janala (a dictionary)](https://github.com/nswarnob/English-Janala-a-dictionary-)
 - [Payoo Mobile App (Tailwind & JS)](https://github.com/nswarnob/Payoo-Mobile-App-tw-js-)
 
