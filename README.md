@@ -11,7 +11,7 @@ I'm a passionate **Developer** with hands-on experience in building modern web a
 
 ## 🌱 Recent Projects
 - [Travel Ease](https://travel-ease-client-eta.vercel.app/)
-- [News Paper](https://github.com/nswarnob/news-paper-project.git)
+- [News Paper](https://nswarnob.github.io/news-paper-project)
 - [English Janala (a dictionary)](https://github.com/nswarnob/English-Janala-a-dictionary-)
 - [Payoo Mobile App (Tailwind & JS)](https://github.com/nswarnob/Payoo-Mobile-App-tw-js-)
 
