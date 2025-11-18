@@ -8,18 +8,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I am a passionate **Full-Stack Developer** focused on building fast, modern, and user-friendly web applications. With hands-on experience in the MERN stack and modern frontend frameworks, I enjoy transforming ideas into smooth, efficient, and production-ready solutions.
-
-- 🔭 Currently working on full-stack web applications
-- 🌱 Learning advanced backend architecture and scalability
-- 👯 Open to collaborate on MERN stack projects
-- 💬 Ask me about React, Node.js, and modern web development
-- ⚡ Fun fact: I love video editing and creating visual stories
-
----
-
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -27,7 +15,6 @@ I am a passionate **Full-Stack Developer** focused on building fast, modern, and
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
@@ -85,13 +72,6 @@ A mobile banking UI built with Tailwind CSS and vanilla JavaScript.
 - **Tech:** Tailwind CSS, JavaScript
 - **Features:** Modern UI, mobile-first design
 
----
-
-## 🏆 Achievements
-
-- 🎓 **Programming Hero Graduate** - Completed comprehensive web development bootcamp
-- 💻 Built 5+ production-ready web applications
-- 🚀 Continuously learning and improving development skills
 
 ---
 
