@@ -4,9 +4,10 @@
 
 ### Full-Stack Developer | MERN Stack Enthusiast 
 
+I develop fast, modern, and user-friendly web applications using the MERN stack. Currently focused on flexible backend architecture and clean frontend experiences. When not coding, I enjoy video editing and visual storytelling.
+
 </div>
 
-I develop fast, modern, and user-friendly web applications using the MERN stack. Currently focused on flexible backend architecture and clean frontend experiences. When not coding, I enjoy video editing and visual storytelling.
 
 ---
 
