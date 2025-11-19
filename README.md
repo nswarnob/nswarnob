@@ -26,6 +26,17 @@ Backend:
 
 ---
 
+## 🌱 Featured Projects
+
+**[Travel Ease](https://travel-ease-client-eta.vercel.app/)** - Travel management platform · React, Node.js, MongoDB, Firebase  
+**[News Paper](https://nswarnob.github.io/news-paper-project)** - Modern news portal · CSS, JS, React, Firebase  
+**[Pet Care](https://nswarnob.github.io/pet-care-in-winter/)** - Pet care guide · CSS, JS, React, Firebase  
+**[English Janala](https://nswarnob.github.io/English-Janala-a-dictionary-/)** - Interactive dictionary · JavaScript, API  
+
+
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -36,17 +47,6 @@ Backend:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nswarnob&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🌱 Featured Projects
-
-**[Travel Ease](https://travel-ease-client-eta.vercel.app/)** - Travel management platform · React, Node.js, MongoDB, Firebase  
-**[News Paper](https://nswarnob.github.io/news-paper-project)** - Modern news portal · CSS, JS, React, Firebase  
-**[Pet Care](https://nswarnob.github.io/pet-care-in-winter/)** - Pet care guide · CSS, JS, React, Firebase  
-**[English Janala](https://nswarnob.github.io/English-Janala-a-dictionary-/)** - Interactive dictionary · JavaScript, API  
-
-
 
 ---
 
