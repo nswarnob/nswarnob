@@ -28,8 +28,7 @@ Backend:
 ---
 
 ## 🌱 Featured Projects
-**[LoanLink](https://mrats-client.vercel.app/)** - A MicroLoan website · React, Node.js, MongoDB, Firebase, Axios, Swiper js, Motion js, 
-
+**[LoanLink](https://mrats-client.vercel.app/)** - A MicroLoan website · React, Node.js, MongoDB, Firebase, Axios, Swiper js, Motion js,
 **[Travel Ease](https://travel-ease-client-eta.vercel.app/)** - Travel management platform · React, Node.js, MongoDB, Firebase  
 **[News Paper](https://nswarnob.github.io/news-paper-project)** - Modern news portal · CSS, JS, React, Firebase  
 **[Pet Care](https://nswarnob.github.io/pet-care-in-winter/)** - Pet care guide · CSS, JS, React, Firebase  
